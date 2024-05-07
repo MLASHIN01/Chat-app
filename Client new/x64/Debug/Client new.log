@@ -1,0 +1,3 @@
+﻿  Client new.cpp
+C:\Users\HP\OneDrive - El Sewedy Education\UNI\UNI\Y2S2\Programming and Algorithms 2\CW\CW-2\Client new\Client new.cpp(121,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client new.vcxproj -> C:\Users\HP\OneDrive - El Sewedy Education\UNI\UNI\Y2S2\Programming and Algorithms 2\CW\CW-2\Chat app\x64\Debug\Client new.exe
